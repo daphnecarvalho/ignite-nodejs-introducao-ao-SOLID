@@ -56,5 +56,9 @@
       + ✓ should not be able to a non admin user get list of all users
       + ✓ should not be able to a non existing user get list of all users
 
-  Test Suites: 7 total
-  Tests:       25 total
+  <p>
+    Test Suites: 7 total
+  </p>
+  <p>
+    Tests: 25 total
+  </p>

@@ -1,6 +1,6 @@
 # Challenge: Introduction to S.O.L.I.D.
 
-Instruction: [Introdução ao SOLID](https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72) e [Documentando com Swagger](https://www.notion.so/Desafio-02-Documentando-com-Swagger-8ce869ea608743e292851bd951f3239f).
+Instruction: [Introdução ao SOLID](https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72) and [Documentando com Swagger](https://www.notion.so/Desafio-02-Documentando-com-Swagger-8ce869ea608743e292851bd951f3239f).
 
 ## Routes
 ### /users
